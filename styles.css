@@ -18,13 +18,13 @@ body {
 
 h1 {
   font-size: 2.5em;
-  color: #ff6f61;
+  color: #ff61da;
   animation: aparecer 2s ease-in-out;
 }
 
 h2 {
   font-size: 1.5em;
-  color: #ff6f61;
+  color: #ff61da;
   animation: aparecer 2s ease-in-out;
 }
 
@@ -37,7 +37,7 @@ button {
   margin-top: 20px;
   padding: 10px 20px;
   font-size: 1em;
-  background-color: #ff6f61;
+  background-color: #ff61da;
   color: white;
   border: none;
   border-radius: 10px;
@@ -98,3 +98,4 @@ img {
     width: 100%;
   }
 }
+
